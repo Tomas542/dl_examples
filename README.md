@@ -2,9 +2,11 @@
 
 # Hello friends 👋
 
-## This is my github repo with examples of Machine Learning, Deep Learning, Natural Language Processing and so on on Python
+## This is my github repo with examples of Machine Learning, Deep Learning, Natural Language Processing and so on on Python from different courses (mostly online) and books
 
 In [codebasics](https://github.com/Tomas542/dl_examples/blob/main/codebasics) folder you can find examples of exercises from codebasics videos from his [ML](https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw), [DL](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO), [NLP](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuvuAXhYjV2lMEShq2UYSwX) playlists.
+
+In [dls_nlp](https://github.com/Tomas542/dl_examples/tree/main/dls_nlp) folder you can find examples of seminars and homeworks from Deep Learning School 2 semester.
 
 In [scratch](https://github.com/Tomas542/dl_examples/blob/main/scratch) folder you can find examples from 2 books:
 - Grokking Deep Learning
