@@ -8,6 +8,8 @@ In [codebasics](https://github.com/Tomas542/dl_examples/blob/main/codebasics) fo
 
 In [dls_nlp](https://github.com/Tomas542/dl_examples/tree/main/dls_nlp) folder you can find examples of seminars and homeworks from Deep Learning School 2 semester.
 
+In [mts_nlp](https://github.com/Tomas542/dl_examples/tree/main/mts_nlp) folder you can find examples of seminars Natural Language Processing course (stream 6, spring 2024) from MTS.
+
 In [scratch](https://github.com/Tomas542/dl_examples/blob/main/scratch) folder you can find examples from 2 books:
 - Grokking Deep Learning
 - Basics of AI on Python
